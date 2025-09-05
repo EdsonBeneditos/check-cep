@@ -16,7 +16,7 @@ public class Main {
            gerator.saveJson(newAddress);
        } catch (RuntimeException | IOException e) {
            System.out.println(e.getMessage());
-           System.out.println("Finalizando ah aplicação");
+           System.out.println("Finalizando a aplicação");
        }
 
 
